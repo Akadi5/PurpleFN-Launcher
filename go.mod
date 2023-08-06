@@ -1,4 +1,4 @@
-module github.com/nexus-fn/lightyear
+module github.com/Akadi5/PurpleFN-Launcher
 
 go 1.20
 
