@@ -111,6 +111,7 @@ func main() {
 	1. Start Fortnite
 	2. Change Fortnite path
 	3. Change email and password ( Use information from Discord register)
+	4. Download Version 8.51 (soon)
 	`)
 
 	fmt.Scanln(&input)
